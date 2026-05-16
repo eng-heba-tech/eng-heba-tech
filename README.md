@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Heba 👋
 
-<!--
-**HebaDesigner/HebaDesigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | Python | Pandas | Power BI
 
-Here are some ideas to get you started:
+I am passionate about transforming raw data into actionable insights using Python, Pandas, and visualization tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- Pandas
+- Data Cleaning
+- Data Visualization
+- Machine Learning Basics
+- Power BI
+
+## Featured Project
+🔹 Sales Analysis Ultimate Portfolio
+Professional sales analysis project using Python and Machine Learning.
+
+## Currently Learning
+- Advanced Data Analysis
+- Power BI Dashboards
+- SQL
+
+## Contact
+GitHub: https://github.com/HebaDesigner
