@@ -2,10 +2,6 @@
   <img src="Screenshot_2026-05-31-02-15-07-477_com.miui.gallery-edit.jpg" alt="Banner" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-heba-tech&layout=compact&theme=transparent" />
-</p>
-
 
 # Hi, I'm Heba 👋
 
