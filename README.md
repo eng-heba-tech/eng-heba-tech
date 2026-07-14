@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Screenshot_2026-05-31-02-15-07-477_com.miui.gallery-edit.jpg" alt="Banner" width="100%">
+  <img src="1781956420715.png" alt="Banner" width="100%">
 </p>
 👩‍💻 Hi, I'm Heba 👋
 
